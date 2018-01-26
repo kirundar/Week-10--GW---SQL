@@ -1,1 +1,2 @@
-# Week-10--GW---SQL
+# SQL_HW
+GW Bootcamp SQL HW
